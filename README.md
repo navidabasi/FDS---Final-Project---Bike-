@@ -1,4 +1,6 @@
-# FDS---Final-Project---Bike-
+**FDS-Final-Project-Bike-rental-problem
+**
+
 This is the notebook in which we did the Bike renting problem in machine learning and analyse it with graphs and other descriptions
 
 Everything is straight forward, first we used a correlation heatmap to filter our dataset from columns that has low/no impact in the process such as atemp and wind speed
